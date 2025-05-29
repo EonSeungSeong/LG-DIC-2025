@@ -1,4 +1,4 @@
-# LG-DIC-2025
+# LG전자 DX Intensive Course(DIC) 2025
 부산대-LG전자 DX Intensive Course(DIC) 실습 자료입니다.
 Colab에서 실습 가능하도록 셋팅되어있습니다.
 
